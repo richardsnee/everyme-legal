@@ -10,7 +10,7 @@ __SUMMARY__: You own and control your data. We don’t sell it to anybody and we
 
 Although we store the information you share with us on our servers for your convenience, the content you share belongs to you and is only visible to the people you have shared it with. You can modify or delete your personal information, manage your preferences, and export your data to your email at any time. You are also able to delete your account entirely from our databases and all of the data associated with it from within the application or by contacting help@everyme.com.
 
-Because we do not own your data, we do not sell it to 3rd parties or advertisers. We may use your data to provide enhancements to your service by performing our own anonymous, computer-based analysis, such as providing an automatic summary of a link you share. We do not and will not provide data-mining tools to any 3rd parties nor do we allow any advertiser or third-party to see any of your data or the things you share.
+Because we do not own your data, we do not sell it to 3rd parties or advertisers. We may use your data to provide enhancements to your service by performing our own anonymous, computer-based analysis, such as providing an automatic summary of a link you share. We do not and will not provide data-mining tools to any 3rd parties nor do we allow any advertiser or third-party to see any of your data or the things you share, except as directed by you or in the limited circumstances disclosed to you in this policy.
 
 # Privacy
 
