@@ -24,7 +24,7 @@ Sometimes, we may access a third-party service provider, like Facebook, Twitter,
 
 We also contract with third-party service providers to host our servers and databases and to provide other services to us. We require our service providers to agree not to access or use any information or data they may have access to while providing services to Everyme other than as specified by us.
 
-We also track statistics in aggregate across our site, in order to provide better quality of service, and we may sometimes share that data in aggregate. These statistics sometimes include your device's unique identification number, such as your UDID, but not attached to any personal information. We make use of third-party software to do so but we do not provide such third-party software providers with any of your personal information.
+We also track statistics in aggregate across our site, in order to provide better quality of service, and we may sometimes share that data in aggregate. We make use of third-party software to do so but we do not provide such third-party software providers with any of your personal information.
 
 We also use cookies (a small text file placed on your computer to identify your computer and browser) and/or Web beacons (a file placed on a website that monitors usage) to improve the experience of our site.  You can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent.
 
